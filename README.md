@@ -7,7 +7,7 @@ Next, from the surface normals can the height map be solved as another overdeter
 
 ## Results
 
-![](https://raw.githubusercontent.com/xiumingzhang/photometric-stereo/master/results/buddha_norm1.png)![](https://raw.githubusercontent.com/xiumingzhang/photometric-stereo/master/results/buddha_norm2.png)![](https://raw.githubusercontent.com/xiumingzhang/photometric-stereo/master/results/buddha_height.png)
+![](https://raw.githubusercontent.com/xiumingzhang/photometric-stereo/master/results/all1.png)![](https://raw.githubusercontent.com/xiumingzhang/photometric-stereo/master/results/all2.png)
 
 ## Example Usage
 
