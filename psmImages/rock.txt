@@ -1,0 +1,14 @@
+12
+psmImages/rock/rock.0.tga
+psmImages/rock/rock.1.tga
+psmImages/rock/rock.2.tga
+psmImages/rock/rock.3.tga
+psmImages/rock/rock.4.tga
+psmImages/rock/rock.5.tga
+psmImages/rock/rock.6.tga
+psmImages/rock/rock.7.tga
+psmImages/rock/rock.8.tga
+psmImages/rock/rock.9.tga
+psmImages/rock/rock.10.tga
+psmImages/rock/rock.11.tga
+psmImages/rock/rock.mask.tga

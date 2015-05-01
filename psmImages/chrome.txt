@@ -1,0 +1,14 @@
+12
+psmImages/chrome/chrome.0.tga
+psmImages/chrome/chrome.1.tga
+psmImages/chrome/chrome.2.tga
+psmImages/chrome/chrome.3.tga
+psmImages/chrome/chrome.4.tga
+psmImages/chrome/chrome.5.tga
+psmImages/chrome/chrome.6.tga
+psmImages/chrome/chrome.7.tga
+psmImages/chrome/chrome.8.tga
+psmImages/chrome/chrome.9.tga
+psmImages/chrome/chrome.10.tga
+psmImages/chrome/chrome.11.tga
+psmImages/chrome/chrome.mask.tga

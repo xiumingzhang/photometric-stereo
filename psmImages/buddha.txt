@@ -1,0 +1,14 @@
+12
+psmImages/buddha/buddha.0.tga
+psmImages/buddha/buddha.1.tga
+psmImages/buddha/buddha.2.tga
+psmImages/buddha/buddha.3.tga
+psmImages/buddha/buddha.4.tga
+psmImages/buddha/buddha.5.tga
+psmImages/buddha/buddha.6.tga
+psmImages/buddha/buddha.7.tga
+psmImages/buddha/buddha.8.tga
+psmImages/buddha/buddha.9.tga
+psmImages/buddha/buddha.10.tga
+psmImages/buddha/buddha.11.tga
+psmImages/buddha/buddha.mask.tga

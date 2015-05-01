@@ -1,0 +1,14 @@
+12
+psmImages/cat/cat.0.tga
+psmImages/cat/cat.1.tga
+psmImages/cat/cat.2.tga
+psmImages/cat/cat.3.tga
+psmImages/cat/cat.4.tga
+psmImages/cat/cat.5.tga
+psmImages/cat/cat.6.tga
+psmImages/cat/cat.7.tga
+psmImages/cat/cat.8.tga
+psmImages/cat/cat.9.tga
+psmImages/cat/cat.10.tga
+psmImages/cat/cat.11.tga
+psmImages/cat/cat.mask.tga

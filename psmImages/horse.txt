@@ -1,0 +1,14 @@
+12
+psmImages/horse/horse.0.tga
+psmImages/horse/horse.1.tga
+psmImages/horse/horse.2.tga
+psmImages/horse/horse.3.tga
+psmImages/horse/horse.4.tga
+psmImages/horse/horse.5.tga
+psmImages/horse/horse.6.tga
+psmImages/horse/horse.7.tga
+psmImages/horse/horse.8.tga
+psmImages/horse/horse.9.tga
+psmImages/horse/horse.10.tga
+psmImages/horse/horse.11.tga
+psmImages/horse/horse.mask.tga

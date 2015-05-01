@@ -1,0 +1,14 @@
+12
+psmImages/owl/owl.0.tga
+psmImages/owl/owl.1.tga
+psmImages/owl/owl.2.tga
+psmImages/owl/owl.3.tga
+psmImages/owl/owl.4.tga
+psmImages/owl/owl.5.tga
+psmImages/owl/owl.6.tga
+psmImages/owl/owl.7.tga
+psmImages/owl/owl.8.tga
+psmImages/owl/owl.9.tga
+psmImages/owl/owl.10.tga
+psmImages/owl/owl.11.tga
+psmImages/owl/owl.mask.tga

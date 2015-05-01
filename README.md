@@ -1,9 +1,17 @@
 # photometric-stereo
 A MATLAB implementation of the basic photometric stereo algorithm
 
-## Methods
+This project implements the basic photometric stereo algorithm that essentially uses the least squares method. Given twelve photometric images and their corresponding light directions, the surface normals are first computed as an overdetermined linear system. Basically, this linear system captures a simple physics relationship: a pixel’s intensity is proportional to the dot product between the light direction and the surface normal at that pixel.
+
+Next, from the surface normals can the height map be solved as another overdetermined system. This second linear system captures the relationship that the surface normal at a pixel is perpendicular to the vector formed by this pixel and its immediate neighbor.
 
 ## Results
+
+
+
+## Example Usage
+
+Just run script `run_ps.m`.
 
 ### Acknowledgements
 
